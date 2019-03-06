@@ -23,8 +23,8 @@ _UpgradeReport_Files/
 ###############
 # Directories #
 ###############
-bin/
-obj/
+*/bin/
+*/obj/
 TestResults/
 ###################
 # Web publish log #
@@ -70,23 +70,23 @@ Thumbs.db
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
+Debug/
+DdebugPublic/
+Release/
+Releases/
 x64/
 x86/
 build/
 bld/
-[Bb]in/
-[Oo]bj/
+Bin/
+Obj/
 
 # Visual Studo 2015 cache/options directory
 .vs/
 
 # MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+TestResult*/
+BuildLog.*
 
 # NUNIT
 *.VisualState.xml
